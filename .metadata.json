@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "package": "genphen"
+  },
+  {
+    "package": "IgGeneUsage"
+  }
+]
