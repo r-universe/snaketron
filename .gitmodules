@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "IgGeneUsage"]
 	path = IgGeneUsage
 	url = https://github.com/snaketron/iggeneusage
-	shallow = true
-	registered = true
 [submodule "scBubbletree"]
 	path = scBubbletree
 	url = https://github.com/snaketron/scbubbletree
-	shallow = true
-	registered = true
